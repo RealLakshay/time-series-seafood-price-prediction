@@ -91,12 +91,12 @@ Multiple forecasting models are applied and compared to identify the best perfor
 ---
 
 ##  Technologies Used
-- **Python 3.x**
+- **Python 3.8**
 - **NumPy**, **Pandas**
 - **Matplotlib**, **Seaborn**
 - **Statsmodels (ARIMA/SARIMA)**
-- **Prophet**
-- **TensorFlow / Keras (LSTM)**
+- **Random Forest**
+- **XGBoost**
 - **scikit-learn**
 
 ---
