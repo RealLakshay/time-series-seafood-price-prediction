@@ -94,7 +94,7 @@ Multiple forecasting models are applied and compared to identify the best perfor
 - **Python 3.8**
 - **NumPy**, **Pandas**
 - **Matplotlib**, **Seaborn**
-- **Statsmodels (ARIMA/SARIMA)**
+- **Statsmodels (ARIMA)**
 - **Random Forest**
 - **XGBoost**
 - **scikit-learn**
