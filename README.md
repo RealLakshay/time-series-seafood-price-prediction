@@ -36,7 +36,7 @@ The notebook walks through data exploration, visualization, and prediction using
 Multiple forecasting models are applied and compared to identify the best performer:
 - **ARIMA Model (AutoRegressive Integrated Moving Average):** — This model is a classic time series forecasting method that captures linear trends and seasonality in the price data. It's a foundational model that provides a baseline for evaluating more complex algorithms.
 - **Random Forest (RF)** —  As an ensemble learning method, Random Forest builds multiple decision trees to improve prediction accuracy. It is effective at handling non-linear relationships and interactions between features, which can be useful for capturing complex patterns in price fluctuations..
-- **XGBoost (eXtreme Gradient Boosting):**This is another powerful and popular gradient-boosted ensemble model. It is known for its speed and performance in machine learning competitions. XGBoost can effectively handle large datasets and complex relationships, making it a strong candidate for price forecasting.
+- **XGBoost (eXtreme Gradient Boosting):** —  This is another powerful and popular gradient-boosted ensemble model. It is known for its speed and performance in machine learning competitions. XGBoost can effectively handle large datasets and complex relationships, making it a strong candidate for price forecasting.
 
 ### 5. **Model Evaluation**
 - Evaluates models using **MAE**, **RMSE**, and **R² Score**.
