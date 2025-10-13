@@ -52,8 +52,9 @@ Multiple forecasting models are applied and compared to identify the best perfor
 
 ## Results & Insights
 - The dataset showed a **gradual increase in seafood prices**, influenced by seasonal demand patterns.  
-- The **Prophet** and **LSTM** models provided the most accurate forecasts.  
+- XGBoost and Random Forest (RF) models, which are strong at capturing complex non-linear relationships, typically provided the most accurate forecasts. They were superior in handling the sudden spikes and dips not fully explained by linear time factors alone.  
 - Forecast results show **a steady upward trend**, indicating potential price increases in the near future.
+- The ARIMA model served as a reliable baseline, successfully capturing the underlying linear trends and macro-level seasonality.
 
 ---
 
