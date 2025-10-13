@@ -6,6 +6,5 @@ matplotlib
 seaborn
 scikit-learn
 statsmodels
-prophet
-tensorflow
-keras
+random-forest
+xgboost
