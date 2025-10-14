@@ -11,7 +11,7 @@ The notebook walks through data exploration, visualization, and prediction using
 | File | Description |
 |------|--------------|
 | `seafood price prediction.ipynb` | Jupyter Notebook containing data preprocessing, visualization, model training, and forecasting. |
-| `seafood_prices_2000_2025.csv` | The dataset used for training and testing (upload this file in your repository). |
+| `seafood_prices_2000_2025_indian_cities.csv` | The dataset used for training and testing (upload this file in your repository). |
 
 ---
 
